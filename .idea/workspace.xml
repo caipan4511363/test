@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7abafa05-50ed-4a8e-80d0-0558f1d3ea36" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/java/src/Changshi2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/java/src/Changshi3.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Changshi2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Changshi2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/Changshi2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
@@ -37,6 +37,19 @@
               <folding>
                 <element signature="e#132#133#0" expanded="true" />
                 <element signature="e#188#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Changshi3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/Changshi3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,6 +77,7 @@
       <list>
         <option value="$PROJECT_DIR$/java/src/Changshi.java" />
         <option value="$PROJECT_DIR$/java/src/Changshi2.java" />
+        <option value="$PROJECT_DIR$/java/src/Changshi3.java" />
       </list>
     </option>
   </component>
@@ -81,7 +95,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -249,15 +263,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553133077952</updated>
-      <workItem from="1553133079936" duration="302000" />
+      <workItem from="1553133079936" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302000" />
+    <option name="totallyTimeSpent" value="645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -317,6 +331,17 @@
           <folding>
             <element signature="e#132#133#0" expanded="true" />
             <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Changshi3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
           </folding>
         </state>
       </provider>
