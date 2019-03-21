@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 /**
  * @author caipan
  * @create 2019/3/21
@@ -7,4 +5,7 @@ package PACKAGE_NAME;
  */
 public class Changshi4 {
 
+    public static void main(String[] args) {
+        System.out.println("333,hello!!!!");
+    }
 }
